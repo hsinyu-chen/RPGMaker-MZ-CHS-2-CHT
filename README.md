@@ -4,7 +4,7 @@
 此MOD適用於大部分使用RPG Maker MZ內建對話系統的遊戲
 
 1. 下載 [此壓縮檔](https://github.com/hsinyu-chen/RPGMaker-MZ-CHS-2-CHT/releases/latest/download/RPGMaker-MZ-CHS-2-CHT.zip) 並解壓縮到 <遊戲目錄>\data\www
-2. 用文字編輯器打開index.html 並在<body> ... </body> 最後加上
+2. 用文字編輯器打開index.html 並在```<body> ... </body>``` 最後加上
 ```html
 <script type="module" src="patchcn2tw.js"></script>
 ```
